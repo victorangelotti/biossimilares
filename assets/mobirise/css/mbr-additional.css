@@ -1908,7 +1908,7 @@ body {
 .cid-qOyssMD1y2 table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #25b8a9;
   margin-bottom: 0;
 }
 .cid-qOyssMD1y2 table th {
@@ -1917,11 +1917,11 @@ body {
   border-bottom: none;
 }
 .cid-qOyssMD1y2 table th:hover {
-  background: #cccccc;
-  color: #000000;
+  background: #25b8a9;
+  color: #ffffff;
 }
 .cid-qOyssMD1y2 table td {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #25b8a9;
 }
 .cid-qOyssMD1y2 table.table {
   background: #ffffff;
@@ -1962,6 +1962,9 @@ body {
 }
 .cid-qOyssMD1y2 .mbr-section-title {
   color: #25b8a9;
+}
+.cid-qOyssMD1y2 .body-item {
+  color: #767676;
 }
 .cid-qP0mVK502T {
   padding-top: 15px;
